@@ -30,7 +30,7 @@ main:
   - title: Earthnets Empowering AI in Earth Observation
     authors: Zhitong Xiong, Fahong Zhang, Yi Wang, Yilei Shi, Xiao Xiang Zhu
     conference_short: GRSM
-    conference: IEEE Geoscience and Remote Sensing Magazine (IF: 16.2)
+    conference: IEEE Geoscience and Remote Sensing Magazine (IF 16.2)
     pdf: https://arxiv.org/pdf/2210.04936
     code: https://earthnets.github.io/
     image: ./assets/img/earthnets.png
