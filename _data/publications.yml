@@ -18,7 +18,7 @@ main:
     image: ./assets/img/on_the_foundation.png
     notes: Under Review
 
-  - title: Mono3dvg: 3d visual grounding in monocular images
+  - title: Mono3dvg 3d visual grounding in monocular images
     authors: Yang Zhan, Yuan Yuan, Zhitong Xiong
     conference_short: AAAI
     conference: Proceedings of the AAAI Conference on Artificial Intelligence 2023
