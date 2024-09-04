@@ -15,7 +15,7 @@ main:
     conference: arXiv:2403.15356
     pdf: https://arxiv.org/pdf/2403.15356
     code: https://github.com/zhu-xlab/DOFA
-    image: ./assets/img/on_the_foundation.png
+    image: ./assets/img/dofa.png
     notes: Under Review
 
   - title: Mono3dvg 3d visual grounding in monocular images
@@ -42,7 +42,7 @@ main:
     conference: European Conference on Computer Vision 2024
     pdf: https://openaccess.thecvf.com/content_CVPR_2020/papers/Xiong_Variational_Context-Deformable_ConvNets_for_Indoor_Scene_Parsing_CVPR_2020_paper.pdf
     code: https://github.com/xiong-zhitong
-    image: ./assets/img/vcd.png
+    image: ./assets/img/eccv.png
     notes: Accepted
 
   - title: Variational context-deformable Convnets for Indoor Scene Parsing
