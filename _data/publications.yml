@@ -1,22 +1,56 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: On the Foundations of Earth and Climate Foundation Models
+    authors: Xiao Xiang Zhu*, Zhitong Xiong, Yi Wang, Adam J Stewart, Konrad Heidler, Yuanyuan Wang, Zhenghang Yuan, Thomas Dujardin, Qingsong Xu, Yilei Shi
+    conference_short: arXiv
+    conference: arXiv:2405.04285
+    pdf: https://arxiv.org/pdf/2405.04285
+    code: https://github.com/zhu-xlab
+    image: ./assets/img/on_the_foundation.png
+    notes: Under Review
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Neural Plasticity-Inspired Multimodal Foundation Model for Earth Observation
+    authors: Zhitong Xiong, Yi Wang, Fahong Zhang, Adam J Stewart, Joëlle Hanna, Damian Borth, Ioannis Papoutsis, Bertrand Le Saux, Gustau Camps-Valls, Xiao Xiang Zhu
+    conference_short: arXiv
+    conference: arXiv:2403.15356
+    pdf: https://arxiv.org/pdf/2403.15356
+    code: https://github.com/zhu-xlab/DOFA
+    image: ./assets/img/on_the_foundation.png
+    notes: Under Review
+
+  
+  - title: Mono3dvg: 3d visual grounding in monocular images
+    authors: Yang Zhan, Yuan Yuan, Zhitong Xiong
+    conference_short: AAAI
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence 2023
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/28525
+    code: https://github.com/ZhanYang-nwpu/Mono3DVG
+    image: ./assets/img/mono3dvg.png
+    notes: Accepted
+
+  - title: Earthnets: Empowering AI in Earth Observation
+    authors: Zhitong Xiong, Fahong Zhang, Yi Wang, Yilei Shi, Xiao Xiang Zhu
+    conference_short: GRSM
+    conference: IEEE Geoscience and Remote Sensing Magazine (IF: 16.2)
+    pdf: https://arxiv.org/pdf/2210.04936
+    code: https://earthnets.github.io/
+    image: ./assets/img/earthnets.png
+    notes: Accepted
+
+  - title: Doubly deformable aggregation of covariance matrices for few-shot segmentation
+    authors: Zhitong Xiong, Haopeng Li, Xiao Xiang Zhu
+    conference_short: ECCV
+    conference: European Conference on Computer Vision 2024
+    pdf: https://openaccess.thecvf.com/content_CVPR_2020/papers/Xiong_Variational_Context-Deformable_ConvNets_for_Indoor_Scene_Parsing_CVPR_2020_paper.pdf
+    code: https://github.com/xiong-zhitong
+    image: ./assets/img/vcd.png
+    notes: Accepted
+
+  - title: Variational context-deformable Convnets for Indoor Scene Parsing
+    authors: Zhitong Xiong, Yuan Yuan, Nianhui Guo, Qi Wang
+    conference_short: CVPR 
+    conference: IEEE/CVF conference on computer vision and pattern recognition 2020
+    pdf: https://arxiv.org/pdf/2208.00306
+    code: https://github.com/xiong-zhitong
+    image: ./assets/img/vcd.png
+    notes: Accepted
