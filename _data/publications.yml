@@ -1,5 +1,118 @@
 main:
 
+  - title: Towards a unified Copernicus foundation model for Earth vision
+    authors: Yi Wang, Zhitong Xiong, Chenying Liu, Adam J Stewart, Thomas Dujardin, Nikolaos Ioannis Bountos, Angelos Zavras, Franziska Gerken, Ioannis Papoutsis, Laura Leal-Taixé, Xiao Xiang Zhu
+    conference_short: ICCV
+    conference: ICCV 2025
+    pdf: https://arxiv.org/pdf/2503.11849
+    code: https://github.com/zhu-xlab/Copernicus-FM
+    image: ./assets/img/cfm.png
+    notes: ICCV 2025 Best Paper Award Candidate (13/2000+)
+
+  
+  - title: GlobalGeoTree: A Multi-Granular Vision-Language Dataset for Global Tree Species Classification
+    authors: Yang Mu, Zhitong Xiong, Yi Wang, Muhammad Shahzad, Franz Essl, Mark van Kleunen, Xiao Xiang Zhu
+    conference_short: arXiv
+    conference: arXiv:2505.12513
+    pdf: https://arxiv.org/pdf/2505.12513
+    code: https://github.com/MUYang99/GlobalGeoTree
+    image: ./assets/img/geoglobaltree.png
+    notes: Under Review
+
+
+
+  - title: ExEBench: Benchmarking Foundation Models on Extreme Earth Events
+    authors: Shan Zhao, Zhitong Xiong, Jie Zhao, Xiao Xiang Zhu
+    conference_short: arXiv
+    conference: arXiv:2505.08529
+    pdf: https://arxiv.org/pdf/2505.08529?
+    code: https://github.com/zhaoshan2/EarthExtreme-Bench
+    image: ./assets/img/extremebench.png
+    notes: Under Review
+
+
+  - title: Soil organic carbon estimation using spaceborne hyperspectral composites on a large scale
+    authors: Xiangyu Zhao, Zhitong Xiong, Paul Karlshöfer, Nikolaos Tziolas, Martin Wiesmeier, Uta Heiden, Xiao Xiang Zhu
+    conference_short: JAG
+    conference: International Journal of Applied Earth Observation and Geoinformation
+    pdf: https://www.sciencedirect.com/science/article/pii/S1569843225001517
+    code: https://github.com/zhu-xlab
+    image: ./assets/img/soil.png
+    notes: Accepted
+
+
+
+  - title: DOFA-CLIP: Multimodal Vision-Language Foundation Models for Earth Observation
+    authors: Zhitong Xiong, Yi Wang, Weikang Yu, Adam J Stewart, Jie Zhao, Nils Lehmann, Thomas Dujardin, Zhenghang Yuan, Pedram Ghamisi, Xiao Xiang Zhu
+    conference_short: arXiv
+    conference: arXiv:2503.06312
+    pdf: https://arxiv.org/abs/2503.06312
+    code: https://github.com/xiong-zhitong/DOFA-CLIP
+    image: ./assets/img/dofaclip.png
+    notes: Accepted
+
+
+  - title: RainScaler: A Physics-Inspired Network for Precipitation Correction and Downscaling
+    authors: Shan Zhao, Zhitong Xiong, Xiao Xiang Zhu
+    conference_short: TGRS
+    conference: IEEE Transactions on Geoscience and Remote Sensing
+    pdf: https://ieeexplore.ieee.org/abstract/document/10990277
+    code: https://github.com/zhu-xlab/RainScaler.git
+    image: ./assets/img/rainscaler.png
+    notes: Accepted
+
+
+  - title: Skyeyegpt: Unifying remote sensing vision-language tasks via instruction tuning with large language model
+    authors: Yang Zhan, Zhitong Xiong, Yuan Yuan
+    conference_short: ISPRS
+    conference: ISPRS Journal of Photogrammetry and Remote Sensing
+    pdf: https://www.sciencedirect.com/science/article/pii/S0924271625000206
+    code: https://github.com/ZhanYang-nwpu
+    image: ./assets/img/skyeyegpt.png
+    notes: Accepted
+
+
+  - title: ChatEarthNet: a global-scale image–text dataset empowering vision–language geo-foundation models
+    authors: Zhenghang Yuan, Zhitong Xiong, Lichao Mou, and Xiao Xiang Zhu
+    conference_short: ESSD
+    conference: Earth System Science Data
+    pdf: https://essd.copernicus.org/articles/17/1245/2025/essd-17-1245-2025.pdf
+    code: https://github.com/zhu-xlab/ChatEarthNet
+    image: ./assets/img/chatearthnet.png
+    notes: Accepted
+
+
+
+  - title: Panopticon: Advancing Any-Sensor Foundation Models for Earth Observation
+    authors: Leonard Waldmann, Ando Shah, Yi Wang, Nils Lehmann, Adam J. Stewart, Zhitong Xiong, Xiao Xiang Zhu, Stefan Bauer, John Chuang
+    conference_short: CVPR Earth Vision
+    conference: Proceedings of the Computer Vision and Pattern Recognition Conference, EarthVision
+    pdf: https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/papers/Waldmann_Panopticon_Advancing_Any-Sensor_Foundation_Models_for_Earth_Observation_CVPRW_2025_paper.pdf
+    code: https://github.com/Panopticon-FM/panopticon
+    image: ./assets/img/panopticon.png
+    notes: Best Paper Award of CVPR 2025 Earthvision workshop
+
+
+  - title: REOBench: Benchmarking Robustness of Earth Observation Foundation Models
+    authors: Xiang Li, Yong Tao, Siyuan Zhang, Siwei Liu, Zhitong Xiong, Chunbo Luo, Lu Liu, Mykola Pechenizkiy, Xiao Xiang Zhu, Tianjin Huang
+    conference_short: NeurIPS
+    conference: NeurIPS 2025 Datasets and Benchmarks Track
+    pdf: https://openreview.net/pdf?id=NfeA0waFaE
+    code: https://github.com/lx709/REOBench
+    image: ./assets/img/reobench.png
+    notes: Accepted
+
+
+  - title: EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models
+    authors: Yan Shu, Bin Ren, Zhitong Xiong*, Danda Pani Paudel, Luc Van Gool, Begum Demir, Nicu Sebe, Paolo Rota
+    conference_short: arXiv
+    conference: arXiv:2506.01667
+    pdf: https://arxiv.org/pdf/2506.01667
+    code: https://github.com/shuyansy/EarthMind
+    image: ./assets/img/earthmind.png
+    notes: Under Review
+
+
   - title: On the Foundations of Earth and Climate Foundation Models
     authors: Xiao Xiang Zhu*, Zhitong Xiong, Yi Wang, Adam J Stewart, Konrad Heidler, Yuanyuan Wang, Zhenghang Yuan, Thomas Dujardin, Qingsong Xu, Yilei Shi
     conference_short: arXiv
@@ -19,7 +132,7 @@ main:
     notes: Under Review
 
   - title: Mono3dvg 3d visual grounding in monocular images
-    authors: Yang Zhan, Yuan Yuan, Zhitong Xiong
+    authors: Yang Zhan, Yuan Yuan*, Zhitong Xiong*
     conference_short: AAAI
     conference: Proceedings of the AAAI Conference on Artificial Intelligence 2023
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/28525
