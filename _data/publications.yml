@@ -49,7 +49,7 @@ main:
     pdf: https://arxiv.org/abs/2503.06312
     code: https://github.com/xiong-zhitong/DOFA-CLIP
     image: ./assets/img/dofaclip.png
-    notes: Accepted
+    notes: Under Review
 
 
   - title: 'RainScaler: A Physics-Inspired Network for Precipitation Correction and Downscaling'
