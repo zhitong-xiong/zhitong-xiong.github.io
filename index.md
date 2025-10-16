@@ -6,11 +6,7 @@ layout: homepage
 
 I received the B.E. degree in Software Engineering, the M.S. degree in Computer Science and Technology and the Ph.D. degree in Computer Science
 and Technology from Northwestern Polytechnical University, Xi’an, China, in 2015, 2018 and 2021, respectively. My research interests lie broadly
-in the area of deep learning, remote sensing, computer vision, and Earth observation. Currently, I am a senior research scientist working on
-remote sensing and Earth observation with Prof. Xiaoxiang Zhu at the department of Data Science in Earth Observation, Technical University
-of Munich. More Specifically, I am serving as the leader of the ML4Earth working group. I am also working on
-the project [Energy-efficient AI for Extreme Weather Events Forecasting](https://www.asg.ed.tum.de/en/sipeo/projects/ekapex/),
-which aims to fight against climate change with machine learning and Earth observation technologies.
+in the area of deep learning, remote sensing, computer vision, and Earth observation. Currently, I am a senior research scientist at the Department of Data Science in Earth Observation, Technical University of Munich, working with Prof. Xiaoxiang Zhu. My current research centers on building and optimizing \textbf{foundation models} for Earth observation, with an emphasis on scalable, sensor-adaptive architectures and cross-modal learning. I serve as the lead of the ML4Earth working group, where I coordinate collaborative research efforts on applying machine learning to environmental and geospatial challenges. In parallel, I am contributing to the project Energy-efficient AI for Extreme Weather Events Forecasting, which aims to fight climate change through sustainable AI approaches that enhance early warning systems for natural disasters. My broader goal is to bridge fundamental AI research with impactful Earth science applications, particularly in the context of climate resilience and disaster risk reduction.
 
 ## Research Interests
 
