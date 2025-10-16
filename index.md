@@ -14,8 +14,8 @@ which aims to fight against climate change with machine learning and Earth obser
 
 ## Research Interests
 
-- **Computer Vision:** RGBD scene understanding, few-shot segmentation
 - **Remote Sensing:** Foundation models, monocular height estimation, urban analysis, wildfire, flood detection
+- **Computer Vision:** RGBD scene understanding, few-shot segmentation
 
 ## News
 
