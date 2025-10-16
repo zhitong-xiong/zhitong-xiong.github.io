@@ -20,7 +20,7 @@ which aims to fight against climate change with machine learning and Earth obser
 ## News
 
 - **[Oct. 2025]** [Copernicus-FM](https://arxiv.org/pdf/2503.11849) (Extension of [DOFA](https://github.com/zhu-xlab/DOFA) ) Selected as ICCV 2025 Best Paper Award Candidate — 13 Out of 2,000+ Submissions!
-- **[Aug. 2025]** DOFA+[https://arxiv.org/pdf/2403.15356?] is released. SOTA performance achieved! 
+- **[Aug. 2025]** [DOFA+](https://arxiv.org/pdf/2403.15356?) is released. SOTA performance achieved.
 - **[Jul. 2025]** [DOFA-CLIP](https://github.com/xiong-zhitong/DOFA-CLIP) is released.
 - **[Sep. 2024]** New version of the [DOFA](https://github.com/zhu-xlab/DOFA) weights are released. The performance is much better! 
 - **[Aug. 2024]** [EarthNets](https://earthnets.github.io/) is accepted by IEEE GRSM (IF: 16.2)!
