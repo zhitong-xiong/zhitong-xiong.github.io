@@ -10,7 +10,7 @@ main:
     notes: ICCV 2025 Best Paper Award Candidate (13/2000+)
 
   
-  - title: GlobalGeoTree: A Multi-Granular Vision-Language Dataset for Global Tree Species Classification
+  - title: 'GlobalGeoTree: A Multi-Granular Vision-Language Dataset for Global Tree Species Classification'
     authors: Yang Mu, Zhitong Xiong, Yi Wang, Muhammad Shahzad, Franz Essl, Mark van Kleunen, Xiao Xiang Zhu
     conference_short: arXiv
     conference: arXiv:2505.12513
@@ -21,7 +21,7 @@ main:
 
 
 
-  - title: ExEBench: Benchmarking Foundation Models on Extreme Earth Events
+  - title: 'ExEBench: Benchmarking Foundation Models on Extreme Earth Events'
     authors: Shan Zhao, Zhitong Xiong, Jie Zhao, Xiao Xiang Zhu
     conference_short: arXiv
     conference: arXiv:2505.08529
@@ -42,7 +42,7 @@ main:
 
 
 
-  - title: DOFA-CLIP: Multimodal Vision-Language Foundation Models for Earth Observation
+  - title: 'DOFA-CLIP: Multimodal Vision-Language Foundation Models for Earth Observation'
     authors: Zhitong Xiong, Yi Wang, Weikang Yu, Adam J Stewart, Jie Zhao, Nils Lehmann, Thomas Dujardin, Zhenghang Yuan, Pedram Ghamisi, Xiao Xiang Zhu
     conference_short: arXiv
     conference: arXiv:2503.06312
@@ -52,7 +52,7 @@ main:
     notes: Accepted
 
 
-  - title: RainScaler: A Physics-Inspired Network for Precipitation Correction and Downscaling
+  - title: 'RainScaler: A Physics-Inspired Network for Precipitation Correction and Downscaling'
     authors: Shan Zhao, Zhitong Xiong, Xiao Xiang Zhu
     conference_short: TGRS
     conference: IEEE Transactions on Geoscience and Remote Sensing
@@ -62,7 +62,7 @@ main:
     notes: Accepted
 
 
-  - title: Skyeyegpt: Unifying remote sensing vision-language tasks via instruction tuning with large language model
+  - title: 'Skyeyegpt: Unifying remote sensing vision-language tasks via instruction tuning with large language model'
     authors: Yang Zhan, Zhitong Xiong, Yuan Yuan
     conference_short: ISPRS
     conference: ISPRS Journal of Photogrammetry and Remote Sensing
@@ -72,7 +72,7 @@ main:
     notes: Accepted
 
 
-  - title: ChatEarthNet: a global-scale image–text dataset empowering vision–language geo-foundation models
+  - title: 'ChatEarthNet: a global-scale image–text dataset empowering vision–language geo-foundation models'
     authors: Zhenghang Yuan, Zhitong Xiong, Lichao Mou, and Xiao Xiang Zhu
     conference_short: ESSD
     conference: Earth System Science Data
@@ -83,7 +83,7 @@ main:
 
 
 
-  - title: Panopticon: Advancing Any-Sensor Foundation Models for Earth Observation
+  - title: 'Panopticon: Advancing Any-Sensor Foundation Models for Earth Observation'
     authors: Leonard Waldmann, Ando Shah, Yi Wang, Nils Lehmann, Adam J. Stewart, Zhitong Xiong, Xiao Xiang Zhu, Stefan Bauer, John Chuang
     conference_short: CVPR Earth Vision
     conference: Proceedings of the Computer Vision and Pattern Recognition Conference, EarthVision
@@ -93,7 +93,7 @@ main:
     notes: Best Paper Award of CVPR 2025 Earthvision workshop
 
 
-  - title: REOBench: Benchmarking Robustness of Earth Observation Foundation Models
+  - title: 'REOBench: Benchmarking Robustness of Earth Observation Foundation Models'
     authors: Xiang Li, Yong Tao, Siyuan Zhang, Siwei Liu, Zhitong Xiong, Chunbo Luo, Lu Liu, Mykola Pechenizkiy, Xiao Xiang Zhu, Tianjin Huang
     conference_short: NeurIPS
     conference: NeurIPS 2025 Datasets and Benchmarks Track
@@ -103,7 +103,7 @@ main:
     notes: Accepted
 
 
-  - title: EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models
+  - title: 'EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models'
     authors: Yan Shu, Bin Ren, Zhitong Xiong*, Danda Pani Paudel, Luc Van Gool, Begum Demir, Nicu Sebe, Paolo Rota
     conference_short: arXiv
     conference: arXiv:2506.01667
