@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2503.11849
     code: https://github.com/zhu-xlab/Copernicus-FM
     image: ./assets/img/cfm.png
-    notes: ICCV 2025 Best Paper Award Candidate (13/2000+)
+    notes: ICCV 2025 Best Paper Award Candidate (13/2700+)
 
   
   - title: 'GlobalGeoTree: A Multi-Granular Vision-Language Dataset for Global Tree Species Classification'
