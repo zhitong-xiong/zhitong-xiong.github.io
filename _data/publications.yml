@@ -1,12 +1,12 @@
 main:
 
   - title: TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation
-    authors: Yan Shu, Bin Ren*, Zhitong Xiong*, Xiao Xiang Zhu, Begüm Demir, Nicu Sebe, Paolo Rota
+    authors: Yan Shu, Bin Ren*, Zhitong Xiong*, Xiao Xiang Zhu, Begum Demir, Nicu Sebe, Paolo Rota
     conference_short: CVPR
     conference: IEEE/CVF conference on computer vision and pattern recognition
     pdf: https://arxiv.org/pdf/2603.19039
     code: https://shuyansy.github.io/terrascope/
-    image: ./assets/img/on_the_foundation.png
+    image: ./assets/img/terrascope.png
     notes: Accepted
     
   - title: On the Foundations of Earth Foundation Models
