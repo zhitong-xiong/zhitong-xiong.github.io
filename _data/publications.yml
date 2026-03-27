@@ -1,6 +1,6 @@
 main:
 
-  - title: TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation
+  - title: 'TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation'
     authors: Yan Shu, Bin Ren*, Zhitong Xiong*, Xiao Xiang Zhu, Begum Demir, Nicu Sebe, Paolo Rota
     conference_short: CVPR
     conference: IEEE/CVF conference on computer vision and pattern recognition
