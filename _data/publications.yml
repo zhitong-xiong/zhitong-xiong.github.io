@@ -6,7 +6,7 @@ main:
     conference: IEEE/CVF conference on computer vision and pattern recognition
     pdf: https://arxiv.org/pdf/2603.19039
     code: https://shuyansy.github.io/terrascope/
-    image: ./assets/img/terrascope.png
+    image: ./assets/img/on_the_foundation.png
     notes: Accepted
     
   - title: On the Foundations of Earth Foundation Models
